@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterux",
+  "name": "Better UX",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://discord.gg/ty6gQaD",
+  "updateUrl": "",
+  "authorList": ["GenZVirus(Main Dev)"],
+  "credits": "GenZVirus(Main Dev), ZettaSword(Artist)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
